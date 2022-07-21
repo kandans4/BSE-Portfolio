@@ -5,8 +5,8 @@ A MIDI board uses buttons and pentiometers to create music in software! It is a 
 |:--:|:--:|:--:|:--:|
 | Kandan S | Alameda High School |  Engineering | Incoming Sophmore
 
-<Frame width ="280" height="152" ![WIN_20220721_10_41_03_Pro](https://user-images.githubusercontent.com/108823939/180279108-815f4f46-8888-4b96-8638-0827fbf4e0a8.jpg)>
-  
+<img src="https://ibb.co/KG1MQNF" width="200" height="100"alt="Computer Hope">
+
 # Final Milestone
 
 I completed my final milestone by sealing up the box and touching up my code. After sealing it up I ran into a little bit of a problem. The MIDI board wasn't working! Due to this issue I had to re-open the entire box and fix the problem. The problem was that the wires were't staying in the breadboard and because I couldn't solder the breadboard I used male and female jumper wires to make it more stirdy then the breadboard wires I had been using before. 
