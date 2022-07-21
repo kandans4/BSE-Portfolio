@@ -29,5 +29,14 @@ My first milestone was achieved after I had connected all of the wires from the 
 
 | **Part** | **Price** |
 |:--:|:--:|
-| Arduino Uno | 35 USD | 
-| Cardboard   |    0   |
+| Arduino Uno  | 35 USD | 
+| Cardboard    |    0   |
+| 8x Buttons   | 20 USD |
+| Pot knobs    |  4 USD |
+| Sliding pots |  5 USD |
+| Jumper Wires |  8 USD |
+
+# Tool List
+ 
+ Pulsivo Soldering iron kit
+ 
