@@ -25,5 +25,9 @@ My first milestone was achieved after I had connected all of the wires from the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZ3wmrp6F-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Part List
+# Components List
 
+| **Part** | **Price** |
+|:--:|:--:|
+| Arduino Uno | 35 USD | 
+| Cardboard   |    0   |
