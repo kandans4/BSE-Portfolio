@@ -37,4 +37,9 @@ My first milestone was achieved after I had connected all of the wires from the 
 | Jumper Wires |  8 USD |
 | Soldering kit| 30 USD |
 
+# Wiring Schematics
+
+![image](https://user-images.githubusercontent.com/108823939/180278053-93e02172-6698-4a62-ace0-b0fe671b476e.png)
+
+![image](https://user-images.githubusercontent.com/108823939/180278002-d10516d2-9d54-4db1-86bb-54c768768d14.png)
 
