@@ -35,8 +35,6 @@ My first milestone was achieved after I had connected all of the wires from the 
 | Pot knobs    |  4 USD |
 | Sliding pots |  5 USD |
 | Jumper Wires |  8 USD |
+| Soldering kit| 30 USD |
 
-# Tool List
- 
- Pulsivo Soldering iron kit
- 
+
