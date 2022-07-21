@@ -5,7 +5,7 @@ A MIDI board uses buttons and pentiometers to create music in software! It is a 
 |:--:|:--:|:--:|:--:|
 | Kandan S | Alameda High School |  Engineering | Incoming Sophmore
 
-<img src="https://live.staticflickr.com/65535/52232080829_e4ae8877b5_c.jpg" width="200" height="100"alt="Picture">
+<img src="https://kandans4.github.io/BSE-Portfolio/WIN_20220721_10_41_03_Pro.jpg" width="200" height="100"alt="Picture">
 
 # Final Milestone
 
