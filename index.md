@@ -5,7 +5,7 @@ A MIDI board uses buttons and pentiometers to create music in software! It is a 
 |:--:|:--:|:--:|:--:|
 | Kandan S | Alameda High School |  Engineering | Incoming Sophmore
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+![WIN_20220721_10_41_03_Pro](https://user-images.githubusercontent.com/108823939/180279108-815f4f46-8888-4b96-8638-0827fbf4e0a8.jpg)
   
 # Final Milestone
 
