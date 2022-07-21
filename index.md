@@ -1,24 +1,26 @@
 ﻿# MIDI Board
-My project uses buttons and pentiometers to create music in software. I chose this project because the music intrests me 
+A MIDI board uses buttons and pentiometers to create music in software! It is a device that makes making music easier. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kandan Saheba | Alameda High School | Electrical Engineering | Incoming Sophmore
+| Kandan S | Alameda High School |  Engineering | Incoming Sophmore
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+I completed my final milestone by sealing up the box and touching up my code. After sealing it up I ran into a little bit of a problem. The MIDI board wasn't working! Due to this issue I had to re-open the entire box and fix the problem. The problem was that the wires were't staying in the breadboard and because I couldn't solder the breadboard I used male and female jumper wires to make it more stirdy then the breadboard wires I had been using before. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D_xf1Oghi_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+My second milestone is that I have sucessfully soldered all of the wires, strongly securing the wire to the potentiometers and the buttons. I have also found a software, serato studio, that supports my MIDI board and allows it to make music. A problem I ran into was that since this was my first time soldering I didn't realize that you shouldn't solder anything to the breadboard. Since I made this mistake I had to flip the breadboard around because the solder was bridging the 5v and GND rails.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xExX80YzJb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # First Milestone
-  
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was achieved after I had connected all of the wires from the arduino to the buttons and potentiometers. I had connected all of the wires inside the frame of my box. After the wiring was done I worked on my code which allowed me to use hairless serial bridge and loopMIDI. I was stuck at this stage for a while because I was having trouble when it came to finding a music software that supported my custom MIDI board. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZ3wmrp6F-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Part List
+
