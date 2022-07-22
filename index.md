@@ -1,6 +1,8 @@
 ﻿# MIDI Board
 A MIDI board uses buttons and pentiometers to create music in software! It is a device that makes making music easier. 
 
+<img src="https://kandans4.github.io/BSE-Portfolio/WIN_20220722_9_32_10_Pro.jpg" width="380" height="300" alt="Picture">
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Kandan S | Alameda High School |  Engineering | Incoming Sophmore
